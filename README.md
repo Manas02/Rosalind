@@ -12,4 +12,6 @@
 
 ### 5 . [Enumerating Gene Orders](https://github.com/Manas02/Rosalind/tree/main/Enumerating%20Gene%20Orders)
 
+### 6 . [Computing GC Content](https://github.com/Manas02/Rosalind/tree/main/Computing%20GC%20Content)
 
+### 7 . [Introduction to Set Operations](https://github.com/Manas02/Rosalind/tree/main/Introduction%20to%20Set%20Operations)
